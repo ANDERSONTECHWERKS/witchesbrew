@@ -1,2 +1,3 @@
-# witchesbrew
-Fun stuff and little exercises
+# WitchesBrew
+
+Crazy, kooky things written here. Likely unorganized.
